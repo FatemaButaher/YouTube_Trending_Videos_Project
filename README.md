@@ -25,10 +25,12 @@ Overall, the results indicate that trending content was concentrated in specific
 
 
 ## Data and Data Dictionary
-- Source: The data comes from Kaggle and contains daily trending YouTube videos for the United States, Great Britain, France, and Canada.
-link: https://www.kaggle.com/datasets/thedevastator/youtube-trending-videos-dataset
+### Source: 
+The data comes from Kaggle and contains daily trending YouTube videos for the United States, Great Britain, France, and Canada.
+### link:
+https://www.kaggle.com/datasets/thedevastator/youtube-trending-videos-dataset
 
-- The final cleaned dataset has 161,251 rows and 18 columns:
+### The final cleaned dataset has 161,251 rows and 18 columns:
 - `title`: The title of the video.
 - `channel_title`: The title of the YouTube channel that published the video.
 - `publish_date`: The date when the video was published on YouTube.
@@ -48,10 +50,10 @@ link: https://www.kaggle.com/datasets/thedevastator/youtube-trending-videos-data
 - `video_error_or_removed`: A boolean (True/False) indicating whether the video has an error or has been removed.
 - `category_name`: The name of the video's category corresponding to category_id.
 
-- Engineered / converted features:
-- 'category_name': created by mapping 'category_id' to its name using the category JSON file.
-- 'day_to_trend': derived column showing how many days a video trended.
-- 'time_frame': converted to a numeric (float) type.
+### Engineered / converted features:
+- `category_name`: created by mapping `category_id` to its name using the category JSON file.
+- `day_to_trend`: derived column showing how many days a video trended.
+- `time_frame`: converted to a numeric (float) type.
 
 
   
