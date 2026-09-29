@@ -18,12 +18,6 @@ Key findings:
 Conclusions and recommendations:
 Overall, the results indicate that trending content was concentrated in specific categories, particularly Entertainment and Music, while many of the top trending channels were established channels with a large audience. Most videos also remained on the trending list for a short period, with one day being the most common duration. Based on these findings, content creators may consider focusing on high-volume categories such as Entertainment and Music and publishing during weekdays, particularly around Friday. Understanding differences between country audiences may also help in creating more targeted content. It is important to note that each record represents a video appearing on the trending list on a specific day. Therefore, the same video can appear multiple times in the dataset, meaning that the record counts represent trending appearances rather than unique videos.
 
-
-
-## File Directory/table of contents
-= 
-
-
 ## Data and Data Dictionary
 ### Source: 
 The data comes from Kaggle and contains daily trending YouTube videos for the United States, Great Britain, France, and Canada.
