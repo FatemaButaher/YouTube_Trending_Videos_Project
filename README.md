@@ -1,7 +1,7 @@
 # YouTube_Trending_Videos_Project
 
 ## Scenario
-YouTube has millions of videos competing for viewers' attention. This analysis explores trending videos from November 14, 2017 to June 14, 2018 across the US, UK, France, and Canada, with data recorded by the hour each video remained trending. It helps content creators understand what factors drive a video to trend, suchs category, publish timing, and engagement metrics. so they can make more informed decisions about their own content strategy.
+YouTube has millions of videos competing for viewers' attention. This analysis explores trending videos from November 14, 2017 to June 14, 2018 across the US, GB, France, and Canada, using daily snapshots of YouTube's trending list. It helps content creators understand which factors, such as category, publish timing, and engagement metrics, are associated with trending, so they can make more informed decisions about their content strategy.
 
 
 ## Executive Summary
